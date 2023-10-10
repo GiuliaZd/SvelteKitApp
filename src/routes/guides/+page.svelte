@@ -1,8 +1,5 @@
 <script>
-  import Title from "$lib/title.svelte";
 </script>
-
-<Title title="Gaming guides" />
 
 <div class="guides">
   <nav>

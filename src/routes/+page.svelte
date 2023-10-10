@@ -1,8 +1,3 @@
-<script>
-  import Title from "$lib/title.svelte";
-</script>
-
-<Title />
 <div class="home">
   <nav>
     <a href="/">home</a>
