@@ -1,9 +1,16 @@
+<script>
+  import Title from "$lib/title.svelte";
+</script>
+
+<Title title="Gaming Reviews" />
+
 <div class="about">
   <nav>
     <a href="/">home</a>
     <a href="/about">about</a>
     <a href="/guides">guides</a>
   </nav>
+
   <h2>About us</h2>
   <p>
     Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam, impedit
